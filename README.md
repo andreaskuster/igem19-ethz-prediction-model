@@ -12,3 +12,5 @@
 ##### Virus Host Database
 ##### National Center for Biotechnology Information (NCBI) 
 #### Connector (Database)
+
+## Credits
