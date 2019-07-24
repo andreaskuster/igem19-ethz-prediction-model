@@ -1,5 +1,6 @@
 from sqlalchemy import *
 
+
 db = create_engine('sqlite:///tutorial.db')
 db.echo = False
 
