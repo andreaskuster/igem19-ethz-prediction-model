@@ -1,4 +1,4 @@
-# iGEM ETH Zurich - Phage Tailfiber Prediction Model
+# iGEM ETH Zurich - Phage Specificity Prediction Model
 
 ## Motivation
 
