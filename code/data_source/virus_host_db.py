@@ -24,8 +24,8 @@ class VirusHostDB(AbstractDataSource):
     _FILE_PREFIX = "virus_host_db_"
     _DATA_PATH = os.path.join(_STORAGE_DIR, _FILE_PREFIX + _DATA_FILE)
 
-    def fetch_data(self, skip_if_exists = True):
-        if not os.path.exists(self._DATA_PATH):
+    def fetch_data(self, force_reload=False):
+        if not os.path.exists(self._DATA_PATH) or force_reload:
             with FTP(self._FTP_BASE_URI) as ftp:
                 ftp.login(user="anonymous")
                 ftp.cwd(self._FILE_DIRECTORY)
@@ -46,5 +46,5 @@ class VirusHostDB(AbstractDataSource):
 
 if __name__ == "__main__":
     source = VirusHostDB()
-    source.fetch_data(skip_if_exists=True)
+    source.fetch_data(force_reload=False)
     source.read_data()
