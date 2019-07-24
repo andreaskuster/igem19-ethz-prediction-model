@@ -9,8 +9,8 @@
 
 #### Predicion Model
 #### Data Sources
-##### Virus Host Database
-##### National Center for Biotechnology Information (NCBI) 
+* Virus Host Database
+* National Center for Biotechnology Information (NCBI) 
 #### Connector (Database)
 
 ## Credits
