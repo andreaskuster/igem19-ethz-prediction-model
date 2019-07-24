@@ -5,7 +5,7 @@
 ## Software Design
 
 ### Structure
-<img src="software-structure.svg" alt="Software Structure" width="800" style="display: block; margin-left: auto; margin-right: auto;"/>
+<img src="software-structure.svg" alt="Software Structure" width="800" style="display:block;margin-left:auto;margin-right:auto;"/>
 
 #### Predicion Model
 #### Data Sources
