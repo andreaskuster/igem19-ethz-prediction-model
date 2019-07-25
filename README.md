@@ -9,7 +9,7 @@
 
 #### Predicion Model
 #### Data Sources
-* Virus Host Database
+* Virus Host Database (www.genome.jp/virushostdb)
 * National Center for Biotechnology Information (NCBI) 
 #### Connector (Database)
 
