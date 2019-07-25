@@ -10,7 +10,7 @@
 #### Predicion Model
 #### Data Sources
 * Virus Host Database (www.genome.jp/virushostdb)
-* National Center for Biotechnology Information (NCBI) 
+* National Center for Biotechnology Information (NCBI) (www.ncbi.nlm.nih.gov)
 #### Connector (Database)
 
 ## Credits
