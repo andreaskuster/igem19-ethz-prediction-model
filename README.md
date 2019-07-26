@@ -1,4 +1,4 @@
-# iGEM ETH Zurich - Phage Specificity Prediction Model
+# <img src="igem-ethz-logo.svg" alt="iGEM ETHZ Logo" width="50"/> iGEM ETH Zurich - Phage Specificity Prediction Model
 
 ## Motivation
 
