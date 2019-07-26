@@ -1,4 +1,4 @@
-# <img src="igem-ethz-logo.svg" alt="iGEM ETHZ Logo" width="75"/> iGEM ETH Zurich - <img src="igem19-ethz-logo.svg" alt="iGEM 19 ETHZ Logo" width="75"/> Libraries for Personalized Phage Therapy
+# <img src="igem-ethz-logo.svg" alt="iGEM ETHZ Logo" width="75"/> iGEM ETH Zurich - <img src="igem19-ethz-logo.svg" alt="iGEM 19 ETHZ Logo" width="100"/> Libraries for Personalized Phage Therapy
 
 # Phage Specificity Prediction Model
 
