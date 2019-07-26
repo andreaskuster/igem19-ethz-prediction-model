@@ -1,6 +1,6 @@
 # <img src="igem-ethz-logo.svg" alt="iGEM ETHZ Logo" width="75"/> iGEM ETH Zurich - <img src="igem19-ethz-logo.svg" alt="iGEM 19 ETHZ Logo" width="120"/> Libraries for Personalized Phage Therapy
 
-# Project Description
+## Project Description
 Antibiotic resistance is one of the biggest threats to global health, food security and development of our society today. Without effective antibiotics, treatment of common infections and minor injuries becomes significantly harder, leading to the necessity of new therapeutic strategies. Phage therapy is an alternative method to treat bacterial infections. However, screening and engineering of phages specific to new targets remains a challenge. In our project, we aim to develop a system that allows for the efficient generation of phage libraries containing tail fiber proteins with novel binding abilities using a three-step approach based on T7 bacteriophage. First, non-conserved regions of the tail fiber protein are randomized. Then, the mutated genome sequences are packaged into phages with the original tail fiber protein in vitro. Lastly, the original host is infected with these hybrid phages, leading to the production of phages with altered tail fibers.
 
 We are currently testing three approaches to generate these libraries.
